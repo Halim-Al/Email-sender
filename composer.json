@@ -1,0 +1,18 @@
+{
+    "name": "halim/contactform",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Halim\\Contactform\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Halim-Al",
+            "email": "halimwuw0@gmail.com"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.9"
+    }
+}
